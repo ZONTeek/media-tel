@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/media-tel/static/css/main.1ca4136b.css",
+    "main.js": "/media-tel/static/js/main.ce3bb795.js",
+    "static/js/787.c9818b7d.chunk.js": "/media-tel/static/js/787.c9818b7d.chunk.js",
+    "index.html": "/media-tel/index.html",
+    "main.1ca4136b.css.map": "/media-tel/static/css/main.1ca4136b.css.map",
+    "main.ce3bb795.js.map": "/media-tel/static/js/main.ce3bb795.js.map",
+    "787.c9818b7d.chunk.js.map": "/media-tel/static/js/787.c9818b7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ca4136b.css",
+    "static/js/main.ce3bb795.js"
+  ]
+}

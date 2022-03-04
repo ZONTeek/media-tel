@@ -1,0 +1,54 @@
+.users-wrapper {
+  padding: 20px;
+}
+
+.users-list-wrapper {
+  flex: 1;
+  margin: 10px 0 0 0;
+  padding-left: 30px;
+  min-height: 300px;
+}
+
+.users-list-table {
+  height: 430px;
+  width: 100%;
+}
+
+.users-list-citycell {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 98%;
+}
+
+.users-list-citycell-actions {
+  display: flex;
+  flex-direction: row;
+}
+
+.add-user-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 500px;
+}
+.add-user-input {
+  width: 320px;
+}
+.add-user-row {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 0;
+}
+.add-user-row-title {
+  font-size: 20px;
+}
+.add-user-main-title {
+  font-size: 24px;
+  font-weight: 600;
+}
+.add-user {
+  padding: 2rem;
+}
